@@ -10,4 +10,3 @@ Tableau adalah aplikasi dari Business Intelligence yang sangat powerful. Ada 3 m
 
 Berikut adalah portofolio saya menggunakan aplikasi Tableau mengenai Pakistan Largest Ecommerce Dataset. terdapat beberapa sheet dan 1 dashboard.
 
-link tableau public : https://lnkd.in/gEMuC3t4
