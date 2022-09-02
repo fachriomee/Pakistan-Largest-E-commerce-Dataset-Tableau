@@ -11,3 +11,24 @@ Tableau adalah aplikasi dari Business Intelligence yang sangat powerful. Ada 3 m
 Berikut adalah portofolio saya menggunakan aplikasi Tableau mengenai Pakistan Largest Ecommerce Dataset. terdapat beberapa sheet dan 1 dashboard.
 
 ![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%201.JPG)
+- Berisi total diskon dari masing masing kategori barang
+
+<hr>
+
+![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%202.JPG)
+- Berisi dashboard dari setiap visualisasi
+
+<hr>
+
+![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%203.JPG)
+- Berisi grand total dari masing-masing kategori barang
+
+<hr>
+
+![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%204.JPG)
+- Berisi jumlah kategori dari setiap kategori barang
+
+<hr>
+
+![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%205.JPG)
+- Berisi grand total dari setiap tahunnya
