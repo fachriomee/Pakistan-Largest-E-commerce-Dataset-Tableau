@@ -1,12 +1,26 @@
 # Repository-Tableau
-https://public.tableau.com/authoring/capstone_16567692370600/Dashboard1#1
-[Pakistan Largest E'commerce Dataset Using Tableau]
 
-Tableau adalah aplikasi dari Business Intelligence yang sangat powerful. Ada 3 macam Tableau yakni Tableau Desktop, Tableau public dan Tableau Reader. aplikasi Tableau memiliki banyak keunggulan diantaranya :
-1. Trendy data visualization tool
-2. Easy, Attractive, Interactive
-3. Analyze data of any size by a simple drag-and-drop interface
-4. Rich in features and data integration compatibility
+[link repository tableau](https://public.tableau.com/authoring/capstone_16567692370600/Dashboard1#1)
+
+[link dataset](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset)
+
+# [Pakistan Largest E'commerce Dataset Using Tableau]
+
+Context
+This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from various e-commerce merchants as part of a research study. I am releasing this dataset as a capstone project for my data science course at Alnafi (alnafi.com/zusmani).
+
+There is a dire need for such dataset to learn about Pakistan’s emerging e-commerce potential and I hope this will help many startups in many ways.
+
+Content
+Geography: Pakistan
+
+Time period: 03/2016 – 08/2018
+
+Unit of analysis: E-Commerce Orders
+
+Dataset: The dataset contains detailed information of half a million e-commerce orders in Pakistan from March 2016 to August 2018. It contains item details, shipping method, payment method like credit card, Easy-Paisa, Jazz-Cash, cash-on-delivery, product categories like fashion, mobile, electronics, appliance etc., date of order, SKU, price, quantity, total and customer ID. This is the most detailed dataset about e-commerce in Pakistan that you can find in the Public domain.
+
+Variables: The dataset contains Item ID, Order Status (Completed, Cancelled, Refund), Date of Order, SKU, Price, Quantity, Grand Total, Category, Payment Method and Customer ID
 
 Berikut adalah portofolio saya menggunakan aplikasi Tableau mengenai Pakistan Largest Ecommerce Dataset. terdapat beberapa sheet dan 1 dashboard.
 
@@ -21,8 +35,8 @@ Berikut adalah portofolio saya menggunakan aplikasi Tableau mengenai Pakistan La
 <hr>
 
 ![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%204.JPG)
-- Berisi jumlah kategori dari setiap kategori barang
-
+- Berisi jumlah kategori barang yang dibeli dari rentang 03/2016 hingga 08/2018
+- 
 <hr>
 
 ![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%205.JPG)
