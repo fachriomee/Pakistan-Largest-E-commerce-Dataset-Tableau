@@ -31,18 +31,19 @@ Berikut adalah portofolio saya menggunakan aplikasi Tableau mengenai Pakistan La
 
 ![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%203.JPG)
 - Berisi grand total dari masing-masing kategori barang
-- Berdasarkan grafik dapat diketahui bahwa kategori barang mobile, entertaiment, dan application adalah kategori barang yang paling banyak menyumbang angka dari grand total dengan perincian mobile sebesar 2.4 milyar dollar, application sebesar 650 juta dollar, dan entertaiment sebesar 530 juta dollar
+- Berdasarkan grafik dapat diketahui bahwa kategori barang mobile, entertaiment, dan application adalah kategori barang yang paling banyak menyumbang angka dari grand total dengan perincian mobile sebesar 2.4 milyar, application sebesar 650 juta, dan entertaiment sebesar 530 juta
 <hr>
 
 ![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%204.JPG)
 - Berisi jumlah kategori barang yang dibeli dari rentang 03/2016 hingga 08/2018
-- 
+- Berdasarkan grafik dapat diketahui bahwa mobile, mens fashion, dan womens fashion adalah kategori barang yang paling banyak dibeli
 <hr>
 
 ![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%205.JPG)
 - Berisi grand total dari setiap tahunnya
-
+- berdasarkan grafik dapat diketahui bahwa terdapat peningkatan yang signifikan dari grand total dari tahun 2016 hingga tahun 2018
 <hr>
+
 ![IMAGE](https://github.com/fachriomee/Pakistan-Largest-E-commerce-Dataset-Tableau/blob/main/screenshot/tableau%202.JPG)
 - Berisi dashboard dari setiap visualisasi
 
